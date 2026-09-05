@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Stealc.Core</RootNamespace>
+    <AssemblyName>Stealc.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
